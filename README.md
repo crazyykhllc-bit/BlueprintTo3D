@@ -5,7 +5,7 @@
   <img src="assets/2d_render.jpg" width="45%" alt="2D Rendered Image" />
 </div>
 <div align="center">
-  <img src="assets/3d_model_1.png" width="80%" alt="3D Model Perspective" />
+  <img src="assets/3d_model_1.png" width="45%" alt="3D Model Perspective" />
 </div>
 
 <p align="center">
