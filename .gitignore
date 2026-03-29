@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# API Keys & Secrets (NEVER UPLOAD THESE)
+.env
+*.key
+*.token
+credentials.json
+
+# Image & Model Outputs (Prevent pushing user generations to repo)
+*.obj
+*.glb
+*.gltf
+*.fbx
+*.ply
+!assets/
+!assets/*.glb
+
+# If node or python code is ever added
+node_modules/
+__pycache__/
+*.pyc
+
+# Logs
+logs/
+*.log
